@@ -1,0 +1,13 @@
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\obj\Debug\netcoreapp3.1\ATIVIDADE 1.csprojAssemblyReference.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\obj\Debug\netcoreapp3.1\ATIVIDADE 1.AssemblyInfoInputs.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\obj\Debug\netcoreapp3.1\ATIVIDADE 1.AssemblyInfo.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\obj\Debug\netcoreapp3.1\ATIVIDADE 1.csproj.CoreCompileInputs.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\bin\Debug\netcoreapp3.1\ATIVIDADE 1.exe
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\bin\Debug\netcoreapp3.1\ATIVIDADE 1.deps.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\bin\Debug\netcoreapp3.1\ATIVIDADE 1.runtimeconfig.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\bin\Debug\netcoreapp3.1\ATIVIDADE 1.runtimeconfig.dev.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\bin\Debug\netcoreapp3.1\ATIVIDADE 1.dll
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\bin\Debug\netcoreapp3.1\ATIVIDADE 1.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\obj\Debug\netcoreapp3.1\ATIVIDADE 1.dll
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\obj\Debug\netcoreapp3.1\ATIVIDADE 1.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN5\ATIVIDADE 1\obj\Debug\netcoreapp3.1\ATIVIDADE 1.genruntimeconfig.cache

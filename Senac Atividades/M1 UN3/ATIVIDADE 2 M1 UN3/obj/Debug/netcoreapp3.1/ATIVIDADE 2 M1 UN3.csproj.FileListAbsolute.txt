@@ -1,0 +1,13 @@
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\obj\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.csprojAssemblyReference.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\obj\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.AssemblyInfoInputs.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\obj\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.AssemblyInfo.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\obj\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.csproj.CoreCompileInputs.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\bin\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.exe
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\bin\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.deps.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\bin\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.runtimeconfig.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\bin\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.runtimeconfig.dev.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\bin\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.dll
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\bin\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\obj\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.dll
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\obj\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\M1 UN3\ATIVIDADE 2 M1 UN3\obj\Debug\netcoreapp3.1\ATIVIDADE 2 M1 UN3.genruntimeconfig.cache
