@@ -1,0 +1,33 @@
+@model List<Formulario>
+@{
+    ViewData["Title"] = "Pedido";
+}
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Telefone</th>
+            <th>Data</th>
+            <th>Animal</th>
+            <th>Necessidade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Formulario pedido in Model)
+        {
+            <tr>
+                <td>@pedido.Nome</td>
+                <td>@pedido.Telefone</td>
+                <td>@pedido.Data</td>
+                <td>@pedido.Animal</td>
+                <td>@pedido.Necessidade</td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+    <p>
+    <a asp-action="Agendamento">Adicionar outro Pedido</a>
+    </p>

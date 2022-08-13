@@ -23,10 +23,31 @@ namespace ATIVIDADE_3_UN5.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Servicos()
         {
             return View();
         }
+        public IActionResult Agendamento()
+        {
+            return View();
+        }
+
+        [HttpPost]
+         public IActionResult Agendamento(Formulario formulario1)
+        {
+            ListaFormulario.incluir(formulario1);
+            return View("Confirmacao");
+     
+        }
+
+        public IActionResult ListaPedido()
+        {
+            List<Formulario> pedido = ListaFormulario.Listar();
+            return View(pedido);
+        }
+
+
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

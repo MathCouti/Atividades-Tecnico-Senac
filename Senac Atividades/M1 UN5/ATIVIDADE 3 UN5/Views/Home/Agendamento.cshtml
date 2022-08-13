@@ -1,0 +1,32 @@
+@model Formulario
+
+@{
+    ViewData["Title"] = "Agendamentos";
+}
+
+
+<h2>Pré-Agendamento</h2>
+
+<form method="POST" class="form-agen">
+    <p class="space-for">
+        <label asp-for="Nome">Nome:</label>
+        <input asp-for="Nome" type="text" class="input-size">
+    </p>
+    <p class="space-for">
+        <label asp-for="Telefone">Telefone:</label>
+        <input asp-for="Telefone" type="number" class="input-size">
+    </p>
+    <p class="space-for">
+        <label asp-for="Data">Data:</label>
+        <input asp-for="Data" type="number" class="input-size">
+    </p>
+    <p class="space-for">
+        <label asp-for="Animal">Animal</label>
+        <input asp-for="Animal" type="text" class="input-size">
+    </p>
+    <p class="space-for">
+        <label asp-for="Necessidade">Necessidade:</label> <br>
+        <textarea asp-for="Necessidade" cols="30" rows="10"></textarea>
+    </p>
+     <input type="submit" value="Enviar">
+</form>

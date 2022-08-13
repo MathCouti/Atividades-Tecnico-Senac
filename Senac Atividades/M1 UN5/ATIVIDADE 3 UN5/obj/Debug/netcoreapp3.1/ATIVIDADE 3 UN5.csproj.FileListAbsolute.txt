@@ -1,0 +1,40 @@
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.exe
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.deps.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.runtimeconfig.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.runtimeconfig.dev.json
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.dll
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.Views.dll
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\bin\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.Views.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.csprojAssemblyReference.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.AssemblyInfoInputs.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.AssemblyInfo.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.csproj.CoreCompileInputs.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.RazorAssemblyInfo.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.RazorAssemblyInfo.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.TagHelpers.input.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.TagHelpers.output.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.RazorCoreGenerate.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.RazorTargetAssemblyInfo.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.RazorTargetAssemblyInfo.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.Views.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\staticwebassets\ATIVIDADE 3 UN5.StaticWebAssets.Manifest.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\staticwebassets\ATIVIDADE 3 UN5.StaticWebAssets.xml
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.dll
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.genruntimeconfig.cache
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\ATIVIDADE 3 UN5.csproj.CopyComplete
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Confirmacao.cshtml.g.cs
+C:\Users\Mr Coutinho\Desktop\Programação\SENAC\Senac Atividades\M1 UN5\ATIVIDADE 3 UN5\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListaPedido.cshtml.g.cs
